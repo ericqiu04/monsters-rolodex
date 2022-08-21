@@ -1,6 +1,6 @@
 import { Component, React } from "react";
 import CardList from './components/card-list/card-list.component';
-import SearchBox from "./components/card-list/search-box.component";
+import SearchBox from "./components/search-box/search-box.component";
 class App extends Component {
   constructor() {
     super();
