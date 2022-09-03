@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Varela+Round&display=swap');
+
 body {
   margin: 0;
   padding: 0;
@@ -11,4 +13,11 @@ body {
     rgba(0,128,128,1) 100%
   );
   text-align:center;
+}
+
+#app-title {
+  margin: 75px 0 50px 0;
+  font-size: 100px;
+  color: #0ccac4;
+  font-family: 'Bigelow Rules', cursive;
 }
